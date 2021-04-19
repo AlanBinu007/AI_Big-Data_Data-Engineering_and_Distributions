@@ -1,5 +1,34 @@
 # Getting Started with Create React App
 
+---------------------Requirment--------------------
+
+**HERE WE ARE USING "COMMERCE" PLATFORM FOR CREATING THIS APP**
+
+1.Any Code Editor prefered Vs Code
+
+2.Must install Node in your system Link :-https://nodejs.org/en/download/
+
+3.Vist : https://commercejs.com/ and create an account and add products
+
+4.Copy the public kry from commerce and paste it in .env file
+
+5.Just Pull this code to your editor
+
+6.Go to client folder and run the following command
+
+npm install axios redux redux-thunk body-parser @material-ui/core @material-ui/icon react-hooks-form @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js
+
+7.Go to localhost:3000
+
+Here We Go Happy Learning
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
