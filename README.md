@@ -6,19 +6,17 @@
 
 1.Any Code Editor prefered Vs Code<br>
 
-2.Must install Node in your system Link :-https://nodejs.org/en/download/<br>
+2.Vist : https://commercejs.com/ and create an account and add products<br>
 
-3.Vist : https://commercejs.com/ and create an account and add products<br>
+3.Copy the public kry from commerce and paste it in .env file<br>
 
-4.Copy the public kry from commerce and paste it in .env file<br>
+4.Just Pull this code to your editor<br>
 
-5.Just Pull this code to your editor<br>
-
-6.Go to client folder and run the following command<br>
+5.Go to client folder and run the following command<br>
 
 npm install axios redux redux-thunk body-parser @material-ui/core @material-ui/icon react-hooks-form @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js<br>
 
-7.Go to localhost:3000<br>
+6.Go to localhost:3000<br>
 
 Here We Go Happy Learning<br>
 
