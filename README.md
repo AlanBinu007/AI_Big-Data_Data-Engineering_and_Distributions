@@ -1,4 +1,4 @@
-# Merge - Video Chat for Online Interviews
+# E- Commerce Application usinf ReactJs
 
 Here we are using commece platform to build this Application
 Offical Web Site link : https://commercejs.com/
