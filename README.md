@@ -7,11 +7,9 @@ Offical Web Site link : https://commercejs.com/
 
 - ReactJs
 - Firebase Hosting
-- Firebase Auth
-- Firebase Storage
 - React-Dom
 - React Redux
-- comerseja API
+- commersejs API
 
 ## Features
 
