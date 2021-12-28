@@ -1,4 +1,4 @@
-# E- Commerce Application usinf ReactJs
+# E- Commerce Application using ReactJs
 
 Here we are using commece platform to build this Application
 Offical Web Site link : https://commercejs.com/
