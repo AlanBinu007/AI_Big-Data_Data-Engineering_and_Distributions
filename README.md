@@ -19,7 +19,7 @@ Offical Web Site link : https://commercejs.com/
 
 ## Steps to run in your machine
 
-Visit : https://commercejs.com/ and craete one account and copy the ID and paste it into your .env file
+Visit : https://commercejs.com/ and create one account and copy the ID and paste it into your .env file
 
 #### Run the following commands
 ```
