@@ -57,7 +57,7 @@ clone the repo
 
 #### Follow the steps
 Install Jupyter Notebook : https://jupyter.org/install
-Open Jupyter Notebook and the open the file you need to run anf then Click on the "Run from Start"
+Open Jupyter Notebook and the open the file you need to run and then Click on the "Run from Start"
 
 
 #### Hope you liked this project, dont forget to ⭐ the repo.
