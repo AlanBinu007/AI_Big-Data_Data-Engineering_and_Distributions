@@ -1,0 +1,7 @@
+kafka:
+  boot:
+    server: localhost:9092
+  topic:
+    name: myTopic-kafkasender
+server:
+  port: 8081 
