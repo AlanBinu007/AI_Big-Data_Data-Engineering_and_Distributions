@@ -4,8 +4,8 @@
 
 ## Features
 
-- Kalfa
-- Kalfa Consumer and Producer
+- Kafka
+- Kafka Consumer and Producer
 - Data Cleaning
 - Data Virtualization
 - Machine Learing
